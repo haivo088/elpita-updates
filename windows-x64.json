@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.2.0",
+    "version":  "0.3.0",
     "platform":  "windows-x64",
-    "installerUrl":  "https://github.com/haivo088/elpita-updates/releases/download/v0.2.0/Elpita-Setup-0.2.0-x64.exe",
-    "sha256":  "f67a7e4eaae4933e2c17f0a5958fab42e00cd2e46f13899ef1dceb69b864d319",
-    "sizeBytes":  18685196,
-    "releaseNotes":  "Cải thiện công cụ PDF và sửa lỗi."
+    "installerUrl":  "https://github.com/haivo088/elpita-updates/releases/download/v0.3.0/Elpita-Setup-0.3.0-x64.exe",
+    "sha256":  "b950468698200c6716a17ff97473abd4d07482d08acfc6bb60349ac62d7d7ac9",
+    "sizeBytes":  19193087,
+    "releaseNotes":  ""
 }
