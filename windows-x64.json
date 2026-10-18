@@ -1,9 +1,9 @@
 {
-    "schema":  1,
-    "version":  "0.4.0",
-    "platform":  "windows-x64",
-    "installerUrl":  "https://github.com/haivo088/elpita-updates/releases/download/v0.4.0/Elpita-Setup-0.4.0-x64.exe",
-    "sha256":  "f9b3048e0e56733b38eeb4c1b040241da55149e4bbb71410922b7f092834c6b5",
-    "sizeBytes":  39164377,
-    "releaseNotes":  "Cập nhật giao diện ribbon: thu gọn từ 180 xuống 140 px, tăng diện tích xem PDF. Sắp xếp nhóm công cụ gọn hơn, chuyển công cụ chưa có bộ xử lý sang tab Mở rộng. Cải thiện tương phản theme sáng/tối, điều hướng trang và tùy chọn theo công cụ; chỉ cuộn ngang khi thiếu chỗ. Giữ nguyên chức năng và phím tắt."
+  "schema": 1,
+  "version": "0.4.1",
+  "platform": "windows-x64",
+  "installerUrl": "https://github.com/haivo088/elpita-updates/releases/download/v0.4.1/Elpita-Setup-0.4.1-x64.exe",
+  "sha256": "9a9870dd47367c0c7717239553072ec2236a3f12b12655c1b6e293624b2c7a13",
+  "sizeBytes": 41011077,
+  "releaseNotes": "Sửa zoom bằng con lăn bị hụt mức phóng khi lăn nhanh liên tục. Giữ hình ảnh nét đã có trong lúc chờ render ở mức zoom mới, giảm nhấp nháy nét/mờ. Giữ hoạt ảnh và điểm PDF dưới con trỏ; không tăng ngân sách cache ảnh mặc định."
 }
