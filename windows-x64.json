@@ -1,9 +1,9 @@
 {
-  "schema": 1,
-  "version": "0.4.1",
-  "platform": "windows-x64",
-  "installerUrl": "https://github.com/haivo088/elpita-updates/releases/download/v0.4.1/Elpita-Setup-0.4.1-x64.exe",
-  "sha256": "9a9870dd47367c0c7717239553072ec2236a3f12b12655c1b6e293624b2c7a13",
-  "sizeBytes": 41011077,
-  "releaseNotes": "Sửa zoom bằng con lăn bị hụt mức phóng khi lăn nhanh liên tục. Giữ hình ảnh nét đã có trong lúc chờ render ở mức zoom mới, giảm nhấp nháy nét/mờ. Giữ hoạt ảnh và điểm PDF dưới con trỏ; không tăng ngân sách cache ảnh mặc định."
+    "schema":  1,
+    "version":  "0.5.0",
+    "platform":  "windows-x64",
+    "installerUrl":  "https://github.com/haivo088/elpita-updates/releases/download/v0.5.0/Elpita-Setup-0.5.0-x64.exe",
+    "sha256":  "742a907f6f46a09dc9b17efd60cc9057d7f27e95b98e5e01adf53b3acfdaee57",
+    "sizeBytes":  41057965,
+    "releaseNotes":  "Rộng chỗ xem bản vẽ hơn: chuyển trang, zoom, công cụ và hướng dẫn thao tác xuống thanh trạng thái; ribbon thấp từ 193 xuống 125 px. Tìm chữ không cần gõ dấu. Tự nhận tỷ lệ bản vẽ trong PDF; lưu số đo theo chuẩn PDF. Bắt điểm thêm trung điểm, giao điểm, tâm cung. So sánh bản vẽ nhanh hơn, gộp PDF nhỏ hơn, hoàn tác giữ nhiều bước hơn. OCR đọc bản vẽ khổ lớn và chữ dọc. Chồng/ghép bản vẽ xuất vector."
 }
